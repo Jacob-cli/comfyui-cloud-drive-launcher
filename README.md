@@ -1,11 +1,10 @@
 # 🌤️ ComfyUI Cloud Drive Launcher
 
-**Run full ComfyUI on powerful cloud GPUs — even on a weak laptop or iPad — with all your models, inputs, and outputs stored safely in Google Drive.**
+**Run full ComfyUI on powerful cloud GPUs — even on a weak laptop or iPad with all your models, inputs, and outputs stored safely in Google Drive.**
 
 One double-click launcher. Full node editor + ComfyUI-Manager. No local GPU needed. Public link opens in your browser.
 
 ![Demo Screenshot](https://via.placeholder.com/800x400?text=ComfyUI+UI+Screenshot)  
-*(Replace with real screenshots once running)*
 
 ## ✨ Why This Exists
 - Your laptop can’t handle Flux, SD3, or video models? → Offload to Modal GPUs.
